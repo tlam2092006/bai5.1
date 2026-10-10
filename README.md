@@ -22,4 +22,5 @@ Markdown
 
 ### 3. Ảnh màn hình Kiểm tra lỗi (Validation)
 
-![Kiểm tra lỗi](./screenshots/validation_error.png)
+![Kiểm tra lỗi](./screenshots/validation_error.png) <img width="1412" height="607" alt="Screenshot 2026-10-10 125801" src="https://github.com/user-attachments/assets/4e1f4ac4-ab32-4364-94be-956b69f26838" />
+
